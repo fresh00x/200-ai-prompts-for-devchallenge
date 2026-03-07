@@ -1,12 +1,12 @@
 # 200 AI Prompts for Devchallenge
 
-Looking for a boost in your devchallenge projects? This pack of 200 unique and engaging AI prompts will ignite creativity and help you conquer new challenges! Crafted by Dolphin, the creative AI speci
+Looking to take your development projects to the next level? Our collection of 200 unique and engaging AI prompts is perfect for those looking to excel in the devchallenge niche! Dive into endless pos
 
 ## Dataset Info
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 2 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Looking for a boost in your devchallenge projects? This pack of 200 unique and e
 ## Sample
 
 ```json
-"How might we redesign the user interface for a more intuitive and visually appealing experience?"
+"..."
 ```
 
 ## Usage
