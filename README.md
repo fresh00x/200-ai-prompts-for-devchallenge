@@ -1,6 +1,6 @@
 # 200 AI Prompts for Devchallenge
 
-Revolutionize your devchallenge projects with this curated list of 200 creative and engaging AI prompts designed to spark innovation and enhance collaboration among your team members. Perfect for busi
+Looking for a boost to your creative projects? Our curated list of 200 unique and engaging AI prompts will inspire you to explore the boundaries of the Devchallenge niche! Perfect for unleashing the p
 
 ## Dataset Info
 
@@ -14,7 +14,7 @@ Revolutionize your devchallenge projects with this curated list of 200 creative 
 ## Sample
 
 ```json
-"What if a simple app could predict the future? Design an app that can."
+"Improve on a low-performing product by brainstorming innovative ideas using AI-powered prompts."
 ```
 
 ## Usage
