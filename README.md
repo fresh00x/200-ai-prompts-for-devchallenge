@@ -1,12 +1,12 @@
 # 200 AI Prompts for Devchallenge
 
-Looking to take your development projects to the next level? Our collection of 200 unique and engaging AI prompts is perfect for those looking to excel in the devchallenge niche! Dive into endless pos
+Revolutionize your devchallenge projects with this curated list of 200 creative and engaging AI prompts designed to spark innovation and enhance collaboration among your team members. Perfect for busi
 
 ## Dataset Info
 
 | Property | Value |
 |---|---|
-| Records | 2 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Looking to take your development projects to the next level? Our collection of 2
 ## Sample
 
 ```json
-"..."
+"What if a simple app could predict the future? Design an app that can."
 ```
 
 ## Usage
