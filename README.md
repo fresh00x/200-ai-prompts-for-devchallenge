@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-devchallenge
+# 200 AI Prompts for Devchallenge
 
 Looking for a boost to your creative projects? Our curated list of 200 unique and engaging AI prompts will inspire you to explore the boundaries of the Devchallenge niche! Perfect for unleashing the p
 
@@ -14,7 +14,7 @@ Looking for a boost to your creative projects? Our curated list of 200 unique an
 ## Sample
 
 ```json
-Keys: title, description, price
+"Improve on a low-performing product by brainstorming innovative ideas using AI-powered prompts."
 ```
 
 ## Usage
